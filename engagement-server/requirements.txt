@@ -1,0 +1,5 @@
+brainflow
+fastapi
+uvicorn[standard]
+numpy
+scipy
