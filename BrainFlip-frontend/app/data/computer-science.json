@@ -1,0 +1,87 @@
+{
+  "subject": "Computer Science",
+  "icon": "💻",
+  "decks": [
+    {
+      "id": "data-structures",
+      "title": "Data Structures",
+      "description": "Arrays, stacks, queues, trees and graphs",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the time complexity of accessing an element in an array by index?",
+          "answer": "O(1)"
+        },
+        {
+          "id": 2,
+          "question": "What data structure follows the LIFO principle?",
+          "answer": "A stack. LIFO means Last In, First Out."
+        },
+        {
+          "id": 3,
+          "question": "What data structure follows the FIFO principle?",
+          "answer": "A queue. FIFO means First In, First Out."
+        },
+        {
+          "id": 4,
+          "question": "What is the average time complexity of searching in a hash table?",
+          "answer": "O(1), assuming a good hash function and limited collisions."
+        }
+      ]
+    },
+    {
+      "id": "algorithms",
+      "title": "Algorithms",
+      "description": "Searching, sorting and algorithm analysis",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the time complexity of binary search?",
+          "answer": "O(log n)"
+        },
+        {
+          "id": 2,
+          "question": "What is the worst-case time complexity of bubble sort?",
+          "answer": "O(n²)"
+        },
+        {
+          "id": 3,
+          "question": "What technique does merge sort use?",
+          "answer": "Divide and conquer."
+        },
+        {
+          "id": 4,
+          "question": "What is Big O notation used for?",
+          "answer": "It describes how an algorithm's time or space requirements grow as the input size increases."
+        }
+      ]
+    },
+    {
+      "id": "databases",
+      "title": "Databases",
+      "description": "SQL, normalization and relational databases",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does SQL stand for?",
+          "answer": "Structured Query Language."
+        },
+        {
+          "id": 2,
+          "question": "What is a primary key?",
+          "answer": "A column or set of columns that uniquely identifies each row in a table."
+        },
+        {
+          "id": 3,
+          "question": "What is the purpose of database normalization?",
+          "answer": "To reduce data redundancy and improve data integrity."
+        },
+        {
+          "id": 4,
+          "question": "What SQL command is used to retrieve data?",
+          "answer": "SELECT."
+        }
+      ]
+    }
+  ]
+}

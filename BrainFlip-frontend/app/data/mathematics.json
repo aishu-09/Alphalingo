@@ -1,0 +1,60 @@
+{
+  "subject": "Mathematics",
+  "icon": "📐",
+  "decks": [
+    {
+      "id": "calculus",
+      "title": "Calculus",
+      "description": "Limits, derivatives and integrals",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the derivative of x²?",
+          "answer": "2x"
+        },
+        {
+          "id": 2,
+          "question": "What does a derivative represent?",
+          "answer": "The instantaneous rate of change of a function."
+        },
+        {
+          "id": 3,
+          "question": "What is the integral of 1 with respect to x?",
+          "answer": "x + C"
+        },
+        {
+          "id": 4,
+          "question": "What does a definite integral represent geometrically?",
+          "answer": "The signed area between a function and the x-axis over an interval."
+        }
+      ]
+    },
+    {
+      "id": "linear-algebra",
+      "title": "Linear Algebra",
+      "description": "Vectors, matrices and transformations",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is a vector?",
+          "answer": "A mathematical object that has both magnitude and direction."
+        },
+        {
+          "id": 2,
+          "question": "What is a matrix?",
+          "answer": "A rectangular arrangement of numbers organized into rows and columns."
+        },
+        {
+          "id": 3,
+          "question": "What is the identity matrix?",
+          "answer": "A square matrix with 1s on the main diagonal and 0s elsewhere."
+        },
+        {
+          "id": 4,
+          "question": "What is a scalar?",
+          "answer": "A single numerical value, as opposed to a vector or matrix."
+        }
+      ]
+    }
+  ]
+}

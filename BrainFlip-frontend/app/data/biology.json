@@ -1,0 +1,60 @@
+{
+  "subject": "Biology",
+  "icon": "🧬",
+  "decks": [
+    {
+      "id": "cell-biology",
+      "title": "Cell Biology",
+      "description": "Cells, organelles and cellular processes",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the powerhouse of the cell?",
+          "answer": "The mitochondrion."
+        },
+        {
+          "id": 2,
+          "question": "What is the function of the cell membrane?",
+          "answer": "It regulates what enters and leaves the cell."
+        },
+        {
+          "id": 3,
+          "question": "Where is DNA primarily stored in a eukaryotic cell?",
+          "answer": "In the nucleus."
+        },
+        {
+          "id": 4,
+          "question": "What organelle is responsible for protein synthesis?",
+          "answer": "Ribosomes."
+        }
+      ]
+    },
+    {
+      "id": "genetics",
+      "title": "Genetics",
+      "description": "DNA, genes and inheritance",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does DNA stand for?",
+          "answer": "Deoxyribonucleic acid."
+        },
+        {
+          "id": 2,
+          "question": "What is a gene?",
+          "answer": "A segment of DNA that contains information contributing to a specific biological function or trait."
+        },
+        {
+          "id": 3,
+          "question": "What are the four bases in DNA?",
+          "answer": "Adenine, thymine, cytosine and guanine."
+        },
+        {
+          "id": 4,
+          "question": "Which bases pair together in DNA?",
+          "answer": "Adenine pairs with thymine, and cytosine pairs with guanine."
+        }
+      ]
+    }
+  ]
+}

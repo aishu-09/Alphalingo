@@ -1,0 +1,60 @@
+{
+  "subject": "History",
+  "icon": "🏛️",
+  "decks": [
+    {
+      "id": "world-history",
+      "title": "World History",
+      "description": "Major events and civilizations",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which civilization built Machu Picchu?",
+          "answer": "The Inca civilization."
+        },
+        {
+          "id": 2,
+          "question": "Which ancient civilization developed democracy in Athens?",
+          "answer": "The ancient Greeks."
+        },
+        {
+          "id": 3,
+          "question": "What was the Silk Road?",
+          "answer": "A network of trade routes connecting East Asia with regions of Central Asia, the Middle East and Europe."
+        },
+        {
+          "id": 4,
+          "question": "Where did the Renaissance begin?",
+          "answer": "It began in Italian city-states, particularly Florence."
+        }
+      ]
+    },
+    {
+      "id": "african-history",
+      "title": "African History",
+      "description": "Kingdoms, civilizations and major events",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which empire was famous for the wealth of Mansa Musa?",
+          "answer": "The Mali Empire."
+        },
+        {
+          "id": 2,
+          "question": "What was Timbuktu historically known for?",
+          "answer": "It was an important center of trade, scholarship and Islamic learning."
+        },
+        {
+          "id": 3,
+          "question": "Which ancient civilization developed along the Nile River?",
+          "answer": "Ancient Egypt."
+        },
+        {
+          "id": 4,
+          "question": "What was the trans-Saharan trade?",
+          "answer": "A network of trade routes crossing the Sahara Desert connecting West Africa with North Africa and the Mediterranean."
+        }
+      ]
+    }
+  ]
+}
